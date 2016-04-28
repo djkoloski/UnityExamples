@@ -205,7 +205,7 @@ MonoBehaviour:
   maxVelocity: 5
   acceleration: 15
   maxAcceleration: 15
-  timeToReach: 0.1
+  timeToReach: 1
 --- !u!212 &1362083851
 SpriteRenderer:
   m_ObjectHideFlags: 0
